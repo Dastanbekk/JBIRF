@@ -1,0 +1,26 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+
+
+
+.containerr{
+    max-width: 1440px;
+    width: 90%;
+    margin: 0 auto;
+    padding: 0 auto;
+}
+
+nav{
+    background-image: url(../../assets/images/hero-bg.png);
+    background-position: center;
+    background-size: cover;
+}
+
+footer{
+    background-image: url(../../assets/images/hero2-bg.png);
+    background-position: center;
+    background-size: cover;
+}
